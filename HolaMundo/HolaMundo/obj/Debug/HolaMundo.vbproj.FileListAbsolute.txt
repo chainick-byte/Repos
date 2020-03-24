@@ -1,0 +1,12 @@
+C:\Users\igorr\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\igorr\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\igorr\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\igorr\source\repos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.xml
+C:\Users\igorr\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.vbprojAssemblyReference.cache
+C:\Users\igorr\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.Form1.resources
+C:\Users\igorr\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.Resources.resources
+C:\Users\igorr\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.vbproj.GenerateResource.cache
+C:\Users\igorr\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.vbproj.CoreCompileInputs.cache
+C:\Users\igorr\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\igorr\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.xml
+C:\Users\igorr\source\repos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

@@ -1,0 +1,13 @@
+C:\Users\igorr\source\repos\EjemploForms\EjemploForms\bin\Debug\EjemploForms.exe.config
+C:\Users\igorr\source\repos\EjemploForms\EjemploForms\bin\Debug\EjemploForms.exe
+C:\Users\igorr\source\repos\EjemploForms\EjemploForms\bin\Debug\EjemploForms.pdb
+C:\Users\igorr\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.csprojAssemblyReference.cache
+C:\Users\igorr\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.Properties.Resources.resources
+C:\Users\igorr\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.csproj.GenerateResource.cache
+C:\Users\igorr\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.csproj.CoreCompileInputs.cache
+C:\Users\igorr\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.exe
+C:\Users\igorr\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.pdb
+C:\Users\igorr\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.Portada.resources
+C:\Users\igorr\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.VentanaPrincipal.resources
+C:\Users\igorr\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.Ventana01.resources
+C:\Users\igorr\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.Ventana02.resources
